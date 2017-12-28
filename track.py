@@ -1,3 +1,4 @@
+# by Aashish Dugar
 # USAGE
 # python track.py --video video/sample.mov
 
