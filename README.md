@@ -1,6 +1,8 @@
 # Object-Tracker
 Object Tracker(based on color and live 4-point selection), using mean-shift and cam-shift
 
+The motivation behind this project was object tracking for a UAV team I'm a part of -> [Aerial Vehicle by Team IFOR](http://www.aerialroboticscompetition.org/2015SymposiumPapers/BirlaInstituteOfTechnology.pdf)
+
 The objective of this project is to run a simple object tracking code based on color scheming of the object selected. It asks the user, based on either the video provided as input or the from the live webcam feed, to select a frame(4 points), which it then proceeds to track.
 
 There is a normalizing function that runs in the back to constantly keep the color at a certain detectable frame. this has been hardcoded to (0,255,0), so a plus would be selecting a frame that has the same RGB values as the normalizer.
