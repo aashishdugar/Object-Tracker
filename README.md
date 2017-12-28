@@ -10,6 +10,7 @@ Credit to the dev team of Open-CV whose tools I've used for this project.
 ### Requirements
 * Open-CV 2.x
 * Numpy
+
 (NOTE - Support for Open-CV 2.x might have stopped, so the code might have been deprecated and needs to be updated to Open-CV 3.x methods)
 
 ### Code
