@@ -14,7 +14,7 @@ Credit to the dev team of Open-CV whose tools I've used for this project.
 
 ### Code
 
-* To run - `$python track.py`(for live capture) OR `$python track.py --video 'videopath'`(for tracking off an exisiting window)
+* To run - `$python track.py`(for live capture) OR `$python track.py --video 'videopath'`(for tracking off an exisiting video)
 * Once the frame opens up, press the `i` button to enter the input mode, here is where you select 4 points via the left mouse button
 * Once selected, press `enter`
 * The frame will track now track the movement of that selected frame
